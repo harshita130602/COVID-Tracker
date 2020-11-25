@@ -8,6 +8,8 @@ Run the following commands on your terminal in order to run the code on your sys
 
 * `git clone https://github.com/harshita130602/COVID-Tracker`
 * `cd COVID-Tracker`
+* `npm update`
+* `npm install`
 * `npm start` 
 
 The command runs the app in the development mode. Open http://localhost:3000 to view it in the browser.
